@@ -1,4 +1,4 @@
-casbin==0.8.4
+casbin==0.16.1
 click==7.1.2
 flask>=0.12.2,~=1.1.2
 itsdangerous==1.1.0
