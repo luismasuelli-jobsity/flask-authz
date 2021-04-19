@@ -1,4 +1,4 @@
-casbin==1.0.1
+casbin==1.0.1 # Major version bump.
 click==7.1.2
 flask>=0.12.2,~=1.1.2
 itsdangerous==1.1.0
